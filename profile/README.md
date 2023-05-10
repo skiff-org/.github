@@ -1,12 +1,15 @@
-## Hi there 👋
+## Welcome to Skiff World
+Skiff is an end-to-end encrypted, privacy-first workspace built for communicating and collaborating freely. Today, we offer Mail, Calendar, Pages (notes), and Drive products.
 
-<!--
+## Learning about Skiff products
+We recommend visiting [skiff.com](https://skiff.com) to learn more about our products, including:
+* [Skiff Mail](https://skiff.com/mail)
+* [Skiff Calendar](https://skiff.com/calendar)
+* [Skiff Pages](https://skiff.com/pages)
+* [Skiff Drive](https://skiff.com/drive)
 
-**Here are some ideas to get you started:**
+## What's in our GitHub
+We've been progressively open-sourcing more and more of Skiff products, libraries, and code - with the goal of having every Skiff product open-source.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Contact us
+Visit our communities on [Discord](https://discord.com/invite/skiff), [Twitter](https://twitter.com/skiffprivacy), or [Reddit](https://www.reddit.com/r/skiff). We welcome feedback and feature suggestions.
